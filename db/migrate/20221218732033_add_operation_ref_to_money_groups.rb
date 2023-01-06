@@ -1,4 +1,3 @@
-# frozen_string_literal: true
 
 class AddOperationRefToMoneyGroups < ActiveRecord::Migration[7.0]
   def change
