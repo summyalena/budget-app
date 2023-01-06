@@ -1,5 +1,4 @@
-# frozen_string_literal: true
-
+# :nodoc:
 class Operation < ApplicationRecord
   belongs_to :user
   has_many :money_groups, dependent: :destroy
