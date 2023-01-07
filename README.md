@@ -79,6 +79,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo](https://rails-ah0l.onrender.com/)
+- [Video presentation](https://www.loom.com/share/7d0f145e60d54f4eba423606d3515249)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
