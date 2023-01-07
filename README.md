@@ -15,7 +15,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
+  - [🚀 Live Demo  ](#-live-demo--)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -76,9 +76,9 @@
 
 
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo <a name="live-demo"> </a>
 
-- [Live Demo](https://www.loom.com/share/c63597a66c6f4f82bc48018c234be8f7)
+- [Live Demo](https://www.loom.com/share/7d0f145e60d54f4eba423606d3515249)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
